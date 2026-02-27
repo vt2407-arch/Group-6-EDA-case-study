@@ -1,5 +1,6 @@
 # Group-6-EDA-case-study
 EDA case study: exploratory analysis of the loan application data
+
 Group 6 members: Vidhi Thakore, Samuel Luo
 
 Task overview: 
@@ -11,6 +12,7 @@ Samuel Luo & vidhi thakore EDA_activity.ipynb - main google collab notebook cont
 EDA group 6 presentation .pdf- presentation containing a summary of the findings and an analysis of each metric considered 
 
 Key findings: 
+
 1)Individuals with lower income, annuity and are more prone to defaults 
 2)Males, especially those who are in civil marriages have a higher chance of defaulting; those who are single follow suit 
 3)Customers below their late 30s and retired have the lowest chances of defaulting 
