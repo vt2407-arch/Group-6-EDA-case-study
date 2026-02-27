@@ -9,6 +9,7 @@ In this assignment, we analysed demographic and financial wellness indicators to
 Repository contents: Below are the names of the files, to simplify navigation: 
 
 Samuel Luo & vidhi thakore EDA_activity.ipynb - main google collab notebook containing the code, dataframes, graphs and preliminary analysis 
+
 EDA group 6 presentation .pdf- presentation containing a summary of the findings and an analysis of each metric considered 
 
 Key findings: 
@@ -24,6 +25,7 @@ Key findings:
 Overall, one’s ability to not default is directly related to their ability to plan, procure and access their funds. 
 
 Technology used: 
+
 Python 3.12
 Seaborn (for visualisations)
 Pandas (for data)
