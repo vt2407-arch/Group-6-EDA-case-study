@@ -24,9 +24,9 @@ Key findings:
 Overall, one’s ability to not default is directly related to their ability to plan, procure and access their funds. 
 
 Technology used: 
-Python
-Seaborn 
-Pandas
+Python 3.12
+Seaborn (for visualisations)
+Pandas (for data)
 Google collab notebook
 Github
 Google slides 
