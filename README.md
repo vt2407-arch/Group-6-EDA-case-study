@@ -8,7 +8,7 @@ In this assignment, we analysed demographic and financial wellness indicators to
 
 Repository contents: Below are the names of the files, to simplify navigation: 
 
-Samuel Luo & vidhi thakore EDA_activity.ipynb - main google collab notebook containing the code, dataframes, graphs and preliminary analysis 
+Samuel Luo & vidhi thakore EDA_activity.ipynb-2  - main google collab notebook containing the code, dataframes, graphs and preliminary analysis 
 
 EDA group 6 presentation .pdf-2  - presentation containing a summary of the findings and an analysis of each metric considered 
 
