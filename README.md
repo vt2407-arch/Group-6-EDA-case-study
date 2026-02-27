@@ -10,7 +10,7 @@ Repository contents: Below are the names of the files, to simplify navigation:
 
 Samuel Luo & vidhi thakore EDA_activity.ipynb - main google collab notebook containing the code, dataframes, graphs and preliminary analysis 
 
-EDA group 6 presentation .pdf- presentation containing a summary of the findings and an analysis of each metric considered 
+EDA group 6 presentation .pdf-2  - presentation containing a summary of the findings and an analysis of each metric considered 
 
 Key findings: 
 
