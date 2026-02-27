@@ -27,9 +27,14 @@ Overall, one’s ability to not default is directly related to their ability to 
 Technology used: 
 
 Python 3.12
+
 Seaborn (for visualisations)
+
 Pandas (for data)
+
 Google collab notebook
+
 Github
+
 Google slides 
 
