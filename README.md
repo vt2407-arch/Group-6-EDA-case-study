@@ -14,9 +14,13 @@ EDA group 6 presentation .pdf- presentation containing a summary of the findings
 Key findings: 
 
 1)Individuals with lower income, annuity and are more prone to defaults 
+
 2)Males, especially those who are in civil marriages have a higher chance of defaulting; those who are single follow suit 
+
 3)Customers below their late 30s and retired have the lowest chances of defaulting 
+
 4)Individuals with lower education levels and (often consequently) blue collared workers are more prone to defaulting
+
 Overall, one’s ability to not default is directly related to their ability to plan, procure and access their funds. 
 
 Technology used: 
